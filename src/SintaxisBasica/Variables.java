@@ -11,6 +11,8 @@ public class Variables {
 		double estatura = 1.66;
 		boolean esPapa = false;
 		
+		boolean esHijo = false;
+		
 		System.out.println(nombre +"\t"+ apellidos +"\t"+ (++edad) +"\t"+ esPapa);
 		
 		
