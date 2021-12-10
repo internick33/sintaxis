@@ -12,6 +12,8 @@ public class Variables {
 		boolean esPapa = false;
 		
 		boolean esHijo = false;
+		boolean esAbuelo = false;
+		boolean esPrimo = true;
 		
 		System.out.println(nombre +"\t"+ apellidos +"\t"+ (++edad) +"\t"+ esPapa);
 		
