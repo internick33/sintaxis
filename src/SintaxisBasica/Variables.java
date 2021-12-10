@@ -15,7 +15,10 @@ public class Variables {
 		boolean esAbuelo = false;
 		boolean esPrimo = true;
 		
+		double salario = 0.0d;
+		
 		System.out.println(nombre +"\t"+ apellidos +"\t"+ (++edad) +"\t"+ esPapa);
+		System.out.println("Estou usnado github");
 		
 		
 	}
